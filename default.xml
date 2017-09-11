@@ -49,7 +49,7 @@
            remote="git-amr-1.devtools.intel.com"
            path="ardia/meta-intel-dev"
            revision="857b3cb7a7d9635c8b3cc67e52bb9cc71e67bbd9" >
-<!--       branch="refs/heads/master" -->
+           branch="refs/heads/master"
   </project>
 -->
   
@@ -58,7 +58,7 @@
            remote="git-amr-1.devtools.intel.com"
            path="ardia/meta-ardia"
            revision="d7007f9200f1b544cd3513d8f0bab1c5719f38ce" >
-<!--       branch="refs/heads/master" -->
+           branch="refs/heads/master"
   </project>
 -->
   <project name="meta-intel-iot-security.git"
