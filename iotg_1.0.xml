@@ -29,7 +29,7 @@
   </project>
   
 <!-- added in new layer for this version -->
-  <project name="meta-oic" remote="yocto" revision="028a5c234fb9fe51b39db339f7d4250fba978198" upstream="1.2.0"/>
+  <project name="meta-oic" path="ardia/meta-oic" remote="yocto" revision="028a5c234fb9fe51b39db339f7d4250fba978198" upstream="1.2.0"/>
 
   <project name="bitbake"
            remote="git.openembedded.org"
