@@ -12,19 +12,19 @@
            alias="origin"
            fetch="https://github.com/01org" />
      
-  <remote  name="github.com/kraj/"
+  <remote  name="github.com/kraj"
            alias="origin"
            fetch="https://github.com/kraj" />
 		   
-  <remote  name="github.com/bmwcarit/"
+  <remote  name="github.com/bmwcarit"
            alias="origin"
            fetch="https://github.com/bmwcarit" />
 		   
-  <remote  name="github.com/intel/"
+  <remote  name="github.com/intel"
            alias="origin"
            fetch="https://github.com/intel" />
 
-  <remote  name="github.com/IntelRealSense/"
+  <remote  name="github.com/IntelRealSense"
            alias="origin"
            fetch="https://github.com/IntelRealSense" />	   
 		   
