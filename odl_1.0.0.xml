@@ -23,7 +23,7 @@
   <project name="meta-openembedded"
            remote="git.openembedded.org"
            path="meta-openembedded"
-	   branch="ref/heads/master" >
+	   revision="ref/heads/master" >
  <!--      revision="5e82995148a2844c6f483ae5ddd1438d87ea9fb7" > -->
   </project>
 
@@ -36,7 +36,7 @@
   <project name="meta-intel"
            remote="git.yoctoproject.org"
            path="meta-intel"
-	   branch="ref/heads/master" >
+	   revision="ref/heads/master" >
 <!--       revision="3afa94c979c984b978142170b8dbe6533ab8536c" > -->
 <!--       branch="refs/heads/pyro" -->
   </project>
@@ -44,6 +44,6 @@
   <project name="meta-intel-iot-security.git"
            remote="github.com/01org"
            path="meta-intel-iot-security"
-		   branch="ref/heads/master" >
+           branch="ref/heads/master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
