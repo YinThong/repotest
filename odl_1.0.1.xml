@@ -63,9 +63,9 @@
 <!--       branch="refs/heads/pyro" -->
   </project>
 
-  <project name="meta-intel-iot-security.git"
-           remote="github.com/01org"
-           path="meta-intel-iot-security"
+  <project name="meta-security.git"
+           remote="git.yoctoproject.org"
+           path="meta-security"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
@@ -95,7 +95,7 @@
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   <project name="meta-security-isafw.git"
-           remote="github.com/01.org"
+           remote="github.com/01org"
            path="meta-security-isafw"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
