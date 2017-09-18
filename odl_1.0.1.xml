@@ -66,7 +66,14 @@
 
   <project name="meta-security.git"
            remote="git.yoctoproject.org"
-           path="intel-iot-refkit/intel-iot-refkit/meta-security"
+           path="intel-iot-refkit/meta-security"
+           revision="master" >
+<!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
+  </project>
+	
+  <project name="meta-oic"
+           remote="git.yoctoproject.org"
+           path="intel-iot-refkit/meta-oic"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
