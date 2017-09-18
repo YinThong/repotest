@@ -32,32 +32,33 @@
 <!-- this has to be the start of the repo in project tag only for refkit -->
   <project name="intel-iot-refkit.git"
            remote="github.com/intel"
+	   path="intel-iot-refkit"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   
   <project name="openembedded-core"
            remote="git.openembedded.org"
-           path="openembedded-core"
+           path="intel-iot-refkit/openembedded-core"
            revision="master" >
   </project>
 
   <project name="meta-openembedded"
            remote="git.openembedded.org"
-           path="meta-openembedded"
+           path="intel-iot-refkit/meta-openembedded"
 	   revision="master" >
  <!--      revision="5e82995148a2844c6f483ae5ddd1438d87ea9fb7" > -->
   </project>
 
   <project name="bitbake"
            remote="git.openembedded.org"
-           path="bitbake"
+           path="intel-iot-refkit/bitbake"
            revision="master" >
   </project>
 
   <project name="meta-intel"
            remote="git.yoctoproject.org"
-           path="meta-intel"
+           path="intel-iot-refkit/meta-intel"
 	   revision="master" >
 <!--       revision="3afa94c979c984b978142170b8dbe6533ab8536c" > -->
 <!--       branch="refs/heads/pyro" -->
@@ -65,38 +66,38 @@
 
   <project name="meta-security.git"
            remote="git.yoctoproject.org"
-           path="meta-security"
+           path="intel-iot-refkit/intel-iot-refkit/meta-security"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   
   <project name="meta-clang.git"
            remote="github.com/kraj"
-           path="meta-clang"
+           path="intel-iot-refkit/meta-clang"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   <project name="meta-ros.git"
            remote="github.com/bmwcarit"
-           path="meta-ros"
+           path="intel-iot-refkit/meta-ros"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   <project name="iot-web-layers.git"
            remote="github.com/intel"
-           path="iot-web-layers"
+           path="intel-iot-refkit/iot-web-layers"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   <project name="meta-intel-realsense.git"
            remote="github.com/IntelRealSense"
-           path="meta-intel-realsense"
+           path="intel-iot-refkit/meta-intel-realsense"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
   <project name="meta-security-isafw.git"
            remote="github.com/01org"
-           path="meta-security-isafw"
+           path="intel-iot-refkit/meta-security-isafw"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
   </project>
