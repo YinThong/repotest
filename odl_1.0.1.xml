@@ -23,6 +23,10 @@
   <remote  name="github.com/intel"
            alias="origin"
            fetch="https://github.com/intel" />
+	
+  <remote  name="github.com/YinThong"
+           alias="origin"
+           fetch="https://github.com/YinThong" />
 
   <remote  name="github.com/IntelRealSense"
            alias="origin"
@@ -31,7 +35,7 @@
 <!-- start project -->
 <!-- this has to be the start of the repo in project tag only for refkit -->
   <project name="intel-iot-refkit.git"
-           remote="github.com/intel"
+           remote="github.com/YinThong"
 	   path="intel-iot-refkit"
            revision="master" >
 <!--       revision="99e4966ecec5374ebe4d9a37868533416259c111" > -->
